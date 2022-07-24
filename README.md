@@ -1,10 +1,11 @@
 ![](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
+#### *~learning computer here and there*
+
+
+`Stuffs I Use`
 <table>
 <tbody>
-
-  <tr>
-    <td>Stuffs I Use</td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/vscode-original.svg" alt="VS code" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/Apache_NetBeans.svg" alt="Netbeans" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/Vim.svg" alt="Vim" width="40" height="40"></td>
@@ -13,10 +14,13 @@
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/Windows_Terminal_logo.png" alt="Windows Terminal" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/konsole.svg" alt="Konsole" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/git-original.svg" alt="Git" width="40" height="40"></td>
-  </tr>
-  
-  <tr>
-    <td>Stuffs I Do</td>
+</tbody>
+</table>
+
+
+`Stuffs I Do`
+<table>
+<tbody>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/python-original.svg" alt="Python" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/java-original.svg" alt="Java" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/c-original.svg" alt="C" width="40" height="40"></td>
@@ -25,10 +29,13 @@
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/javascript-original.svg" alt="Javascript" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/nodejs-original.svg" alt="NodeJS" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/discordjs-original.svg" alt="DiscordJS" width="40" height="40"></td>
-  </tr>
-  
-  <tr>
-    <td>Stuffs I'm Learning </td>
+</tbody>
+</table>
+
+
+`Stuffs I'm Learning`
+<table>
+<tbody>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/linux-original.svg" alt="Linux" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/bash-original.svg" alt="Bash" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/mysql-original.svg" alt="mySQL" width="40" height="40"></td>
@@ -36,7 +43,5 @@
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/graphql-plain.svg" alt="GraphQL" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/latex-original.svg" alt="Latex" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/markdown-original.svg" alt="Markdown" width="40" height="40"></td>
-  </tr>
-  
 </tbody>
 </table>
