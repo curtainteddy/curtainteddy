@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="44.246" x2="4.295" y1="47.834" y2="-.121">
+      <stop offset="0" stop-color="#2a2c2f"/>
+      <stop offset="1" stop-color="#536161"/>
+    </linearGradient>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="36" x2="14" y1="44" y2="12">
+      <stop offset="0" stop-color="#bfc9c9"/>
+      <stop offset="1" stop-color="#fbfbfb"/>
+    </linearGradient>
+    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="21.931" x2="35.404" y1="27.214" y2="40.025">
+      <stop offset="0" stop-color="#292c2f"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect fill="url(#a)" height="40" rx="1" width="40" x="4" y="4"/>
+  <path d="m4 42v1c0 .554007.4459958 1 1 1h38c.554004 0 1-.445993 1-1v-1c0 .554007-.445996 1-1 1h-38c-.5540042 0-1-.445993-1-1z" opacity=".3"/>
+  <path d="m20.414 14-1.414 1.414 8.586 8.586-8.586 8.586 1.414 1.414 10-10-1.414-1.414z" fill="url(#b)"/>
+  <path d="m20.42 34 9.586 9.586h14v-6l-13.586-13.586z" fill="url(#c)" fill-rule="evenodd" opacity=".4"/>
+  <path d="m4 6v-1c0-.554007.445996-1 1-1h38c.554004 0 1 .445993 1 1v1c0-.554007-.445996-1-1-1h-38c-.554004 0-1 .445993-1 1z" fill="#fff" opacity=".3"/>
+</svg>
