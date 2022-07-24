@@ -16,12 +16,13 @@
   
   <tr>
     <td>Stuffs I Do</td>
-    <td><img src="" alt="" width="40" height="40"></td>
-    <td><img src="" alt="" width="40" height="40"></td>
-    <td><img src="" alt="" width="40" height="40"></td>
-    <td><img src="" alt="" width="40" height="40"></td>
-    <td><img src="" alt="" width="40" height="40"></td>
-    <td><img src="" alt="" width="40" height="40"></td>
+    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/python-original.svg" alt="" width="40" height="40"></td>
+    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/java-original.svg" alt="" width="40" height="40"></td>
+    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/css3-original.svg" alt="" width="40" height="40"></td>
+    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/html5-original.svg" alt="" width="40" height="40"></td>   
+    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/javascript-original.svg" alt="" width="40" height="40"></td>
+    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/nodejs-original.svg" alt="" width="40" height="40"></td>
+    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/discordjs-original.svg" alt="" width="40" height="40"></td>
   </tr>
   
   <tr>
