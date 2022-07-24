@@ -1,8 +1,34 @@
 ![](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
-<!---
-![](https://komarev.com/ghpvc/?username=curtainteddy&style=flat-square&color=green)
---->
 
-### Github Stats
-![curtainteddy stats](https://github-readme-stats.vercel.app/api?username=curtainteddy&show_icons=true)
+<table>
+<tbody>
+  <tr>
+    <td>Stuffs I Use</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Stuffs I Do</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Stuffs I'm Learning </td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+    <td>3</td>
+  </tr>
+</tbody>
+</table>
