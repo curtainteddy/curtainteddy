@@ -1,6 +1,6 @@
 ![](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
-#### *~learning computer here and there*
+
 
 
 `Stuffs I Use`
