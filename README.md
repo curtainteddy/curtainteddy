@@ -3,21 +3,6 @@
 `Stuffs I Use`
 <table>
 <tbody>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/vscode-original.svg" alt="VS code" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/Apache_NetBeans.svg" alt="Netbeans" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/Vim.svg" alt="Vim" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/brave-browser.svg" alt="Brave Browser" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/firefox-original.svg" alt="Firefox Browser" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/Windows_Terminal_logo.png" alt="Windows Terminal" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/konsole.svg" alt="Konsole" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/git-original.svg" alt="Git" width="40" height="40"></td>
-</tbody>
-</table>
-
-
-`Stuffs I Do`
-<table>
-<tbody>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/python-original.svg" alt="Python" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/java-original.svg" alt="Java" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/c-original.svg" alt="C" width="40" height="40"></td>
@@ -25,7 +10,7 @@
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/html5-original.svg" alt="HTML" width="40" height="40"></td>   
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/javascript-original.svg" alt="Javascript" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/nodejs-original.svg" alt="NodeJS" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/discordjs-original.svg" alt="DiscordJS" width="40" height="40"></td>
+    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/git-original.svg" alt="Git" width="40" height="40"></td>
 </tbody>
 </table>
 
