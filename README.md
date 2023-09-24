@@ -42,3 +42,7 @@
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/markdown-original.svg" alt="Markdown" width="40" height="40"></td>
 </tbody>
 </table>
+
+
+![Spotify Recent Statistics](https://spotify-recently-played-readme.vercel.app/api?user=9j78jw8aa5y180ns0or0wo15c&unique=1&count=3&width=600)
+
