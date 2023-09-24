@@ -1,7 +1,4 @@
-![](https://media0.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=600&pause=500&multiline=true&width=500&lines=Fetching+.+.+.;%2Fhome%2Fuser%2F.config%2Fgithub%2Fpersonal%2Fprojects%2Fcurtainteddy%2F)](https://git.io/typing-svg)
 
 `Stuffs I Use`
 <table>
