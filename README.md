@@ -15,7 +15,7 @@
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/nodejs-original.svg" alt="NodeJS" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/mongodb-original.svg" alt="MongoDB" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/git-original.svg" alt="Git" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/latex-original.svg" alt="Latex" width="40" height="40"></td>
+    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/latex-original.png" alt="Latex" width="40" height="40"></td>
 </tbody>
 </table>
 
@@ -25,8 +25,8 @@
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/linux-original.svg" alt="Linux" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/bash-original.svg" alt="Bash" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/graphql-plain.svg" alt="GraphQL" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/lua-original.svg" alt="Lua" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/laravel-original.svg" alt="Laravel" width="40" height="40"></td>
+    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/lua-original.png" alt="Lua" width="40" height="40"></td>
+    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/laravel-original.png" alt="Laravel" width="40" height="40"></td>
     
 </tbody>
 </table>
