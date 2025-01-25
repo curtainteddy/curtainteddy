@@ -11,7 +11,7 @@
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/html5-original.svg" alt="HTML" width="40" height="40"></td>   
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/css3-original.svg" alt="CSS" width="40" height="40"></td> 
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/javascript-original.svg" alt="Javascript" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/React-original.svg" alt="React" width="40" height="40"></td>
+    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/react-original.png" alt="React" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/nodejs-original.svg" alt="NodeJS" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/mongodb-original.svg" alt="MongoDB" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/git-original.svg" alt="Git" width="40" height="40"></td>
