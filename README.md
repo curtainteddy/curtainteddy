@@ -18,7 +18,6 @@
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/latex-original.png" alt="Latex" width="40" height="40"></td>
     <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cricket.png" alt="Cricket" width="55" height="55" /></td>
     <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dolphin.png" alt="Dolphin" width="55" height="55" /></td>
-    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hatching%20Chick.png" alt="Hatching Chick" width="55" height="55" /></td>
 
 </tbody>
 </table>
