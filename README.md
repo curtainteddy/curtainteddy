@@ -1,6 +1,6 @@
 <div>
-    <img align=top src="https://pixeljoint.com/files/icons/full/oraora.gif" alt="Peshal"height="100"/>
-    <img align=right src="https://64.media.tumblr.com/e0140bfa97a9805dd53b135e0eb5bad1/tumblr_inline_p94dwggKQj1ri065t_400.gif"  height="150"/>
+    <img align=top src="https://github.com/curtainteddy/curtainteddy/blob/main/src/gifs/jotaro.gif" height="200"/>
+    <img align=right src="https://github.com/curtainteddy/curtainteddy/blob/main/src/gifs/dio.gif"  height="250"/>
 </div>
 
 
