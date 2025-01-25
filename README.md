@@ -15,7 +15,7 @@
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/nodejs-original.svg" alt="NodeJS" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/mongodb-original.svg" alt="MongoDB" width="40" height="40"></td>
     <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/git-original.svg" alt="Git" width="40" height="40"></td>
-    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/latex-original.png" alt="Latex" width="40" height="40"></td>
+    <td><img src="https://github.com/curtainteddy/curtainteddy/blob/main/src/images/latex-original.png" alt="Latex" height="40"></td>
 </tbody>
 </table>
 
